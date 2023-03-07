@@ -51,7 +51,7 @@ if streamlit.button('Get Fruit Load List'):
     streamlit.dataframe(my_data_rows)
 
 #dont't run anything past here while ...
-streamlit.stop()
+#streamlit.stop()
 
 #Allow the end user to add a fruit to the list 
 
